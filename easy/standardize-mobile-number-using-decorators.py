@@ -22,6 +22,5 @@ def sort_phone(l):
 
 
 if __name__ == '__main__':
-    # l = [input() for _ in range(int(input()))]
-    l = ["09191919191", "9100256236", "+919593621456"]
+    l = [input() for _ in range(int(input()))]
     sort_phone(l)
